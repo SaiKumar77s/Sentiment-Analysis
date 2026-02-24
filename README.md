@@ -70,6 +70,13 @@ The goal is to classify tweets as **Positive** or **Negative** and extract meani
 
 ---
 
+## 📌 Conclusion
+
+- This project successfully performed Sentiment Analysis on Twitter data using NLP techniques. 
+- After preprocessing and applying TF-IDF, a Logistic Regression model was trained to classify tweets as Positive or Negative. 
+- The model achieved good accuracy and demonstrated how machine learning can be used to analyze public opinion and customer feedback effectively.
+
+
 ## 🔍 Key Insights
 
 - Balanced dataset improves classification performance.
